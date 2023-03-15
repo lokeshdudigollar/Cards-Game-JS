@@ -1,2 +1,2 @@
 # Cards-Game-JS
-Created with CodeSandbox
+Created with HTML-CSS-JAVASCRIPT
